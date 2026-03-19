@@ -1,5 +1,6 @@
 Azure Speech-to-Speech Models (2025–2026)
 
+![azure_speech_to_speech_models](https://github.com/user-attachments/assets/45eaa24c-788a-4afa-baa1-dd21a7108672)
 
 Here's the complete picture of what's available, organized by how they work:
 
