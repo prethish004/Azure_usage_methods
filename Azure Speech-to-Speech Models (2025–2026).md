@@ -1,10 +1,6 @@
 Azure Speech-to-Speech Models (2025–2026)
 
 
-
-<img width="1360" height="1520" alt="azure_speech_to_speech_models" src="https://github.com/user-attachments/assets/81754151-f8e6-4708-b5d5-1fa66c6094f4" />
-
-
 Here's the complete picture of what's available, organized by how they work:
 
 The main Speech-to-Speech platform: Azure Voice Live API
